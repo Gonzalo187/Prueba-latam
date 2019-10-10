@@ -1,0 +1,94 @@
+.pichulotote{
+  background: #890D00;
+  color: #FFFFFF;
+}
+
+body{
+  font-family: 'Cabin', sans-serif;
+
+}
+
+header{
+  background-image: url('../img/trabajando.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 50rem;
+  text-align: center;
+}
+
+.yosoy{
+  text-align: center;
+  border-bottom: 2px solid;
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  vertical-align: text-bottom;
+}
+
+.gonzalo{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  vertical-align: text-bottom;
+}
+
+
+.listado li{
+  list-style: none;
+
+}
+
+
+.listado{
+  font-weight: 400;
+
+}
+
+.experiencia h1{
+  text-align: center;
+  border-bottom: 2px solid;
+ display: inline-block;
+ font-weight: 700;
+ color: ##373A3C;
+}
+
+.experiencia{
+  font-weight: 700;
+ font-family: 'Cabin', sans-serif;
+}
+
+.trabajos h1{
+  border-bottom: 2px solid;
+ display: inline-block;
+ font-weight: 700;
+ color: #ffffff;
+}
+
+.trabajos{
+  padding: 100px;
+  background-color: #890D00;
+  color: ##373A3C;
+}
+
+.contacto h1{
+  border-bottom: 2px solid;
+ display: inline-block;
+ font-weight: 700;
+ color: ##373A3C;
+}
+
+.carousel-indicators{
+  top: 100px;
+}
+
+.carousel-indicators li{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.carusel{
+  color: #ffffff;
+  text-decoration: none;
+}
